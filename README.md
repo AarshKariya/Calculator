@@ -1,2 +1,4 @@
-# Calculator
-A simple yet effective and eye-pleasing calculator made using ReactJS.
+# calculator-react-js
+Calculator using ReactJs, beginner level, to get some pratice :)
+
+![Screenshot](screenshot.png)
