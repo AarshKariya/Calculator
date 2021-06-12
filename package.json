@@ -1,0 +1,16 @@
+{
+  "name": "calculator-react-js-master",
+  "version": "1.0.0",
+  "description": "Calculator using ReactJs, beginner level, to get some pratice :)",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://AarshKariya.github.io/Calculator",
+  "dependencies": {
+    "gh-pages": "^3.2.0"
+  }
+}
